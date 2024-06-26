@@ -23,13 +23,14 @@ Modelul AI antrenat este necesar pentru a rula aplicația. Puteți descărca mod
 
 https://drive.google.com/file/d/1-TQeoMUcYv-JGlBwP0MAV215hPBHvAjq/view?usp=drive_link
 
-După descărcare, plasați fișierul modelului în directorul model/ din repository.
+După descărcare, plasați fișierul modelului în directorul ErythroScopeApp/model/ din repository.
 
 ## Lansarea Aplicației
 
 După ce toate dependențele sunt instalate și modelul AI este plasat în directorul corect, lansați aplicația folosind următoarea comandă:
 
 ```
+cd ErythroScopeApp
 python app.py
 ```
 ## Testarea Modelului
